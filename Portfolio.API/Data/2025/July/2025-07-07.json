@@ -1,9 +1,0 @@
-{
-  "date": "2025-07-07",
-  "title": "Initial Setup",
-  "summary": "Set up the project structure, and prepared for first dev log.",
-  "tags": [ "Setup", "API", "Client" ],
-  "image": null,
-  "githubLink": "To Do",
-  "details": "Today I initialized the portfolio project, split out API and client and the potential Logger."
-}

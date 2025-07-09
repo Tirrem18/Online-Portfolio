@@ -1,9 +1,0 @@
-{
-  "date": "2025-07-08",
-  "title": "Initial Setup",
-  "summary": "Set up the project structure, hosted it on Render, and prepared for first dev log.",
-  "tags": [ "Logs", "Code Libary"],
-  "image": null,
-  "githubLink": "To Do",
-  "details": "Today I initialized the Code Liabry project which this will link to if i ever do a dev log with it. Also filled in the template and two logs, the template may change in the future. Added .env"
-}
